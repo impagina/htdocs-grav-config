@@ -4,6 +4,3 @@ author:
   email: 'ale@graphihcslab.org'
 metadata:
   description: 'Community page for the Scribus layout program.'
-routes:
-  '/learn/starting-with-scribus/(.*)': '/learn/starting-with-scribus/'
-  '/learn/introduction-a-scribus/(.*)': '/learn/introduction-a-scribus/'
