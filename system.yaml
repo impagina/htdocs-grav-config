@@ -16,6 +16,7 @@ pages:
   process:
     markdown: true
     twig: false
+  ignore_files: [README.md]
 
 cache:
   enabled: false
