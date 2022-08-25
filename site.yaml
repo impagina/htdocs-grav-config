@@ -3,7 +3,7 @@ author:
   name: ale rimoldi
   email: 'ale@graphihcslab.org'
 metadata:
-  description: 'Community page for the Scribus layout program.'
+  description: 'Community page for the Scribus layout program'
 var_version: 1.4.8
 var_version_dev: 1.5.8
 var_version_git: 1.5.9svn
